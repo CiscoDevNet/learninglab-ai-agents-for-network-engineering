@@ -1,12 +1,24 @@
-# devnet-template
-This provides a template repository for creating or importing repos in the CiscoDevNet organization on GitHub.com. 
+# Learning Lab: AI Agents for Network Engineering
 
-Please use this template as a guide to creating a repo that encourages contributions and shows thoughtful maintenance strategies.  
+## Installation & Usage
 
-The `CODE_OF_CONDUCT.md` reflects our standards for interaction. 
+Start the DevNet Learning Lab, a step by step guide here: 
 
-The `CONTRIBUTING.md` file instructs new contributors on how to communicate with the project maintainers, report issues, provide pull requests, reviewing contributions, and how to version control releases.
+## DevNet Sandbox Information
 
-The `LICENSE` file should contain the license you intend for the source code in the repo. 
+You can try out the generated code with the **Catalyst 9000 Always-On Sandbox**!
 
-The `SECURITY.md` file describes security policies and procedures including reporting a security-related bug and the policy on disclosure. 
+* BASE_URL = 'devnetsandboxiosxec9k.cisco.com'
+* For USERNAME and PASSWORD login and launch the sandbox on [https://devnetsandbox.cisco.com](https://devnetsandbox.cisco.com)
+
+## Authors
+
+* **Flo Pachinger** - *Initial work* - [flopach](https://github.com/flopach)
+
+## License
+
+This project is licensed under the Cisco Sample Code License 1.1 - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Further Links
+
+* [Cisco DevNet Website](https://developer.cisco.com)
