@@ -2,7 +2,7 @@
 
 ## Installation & Usage
 
-Start the DevNet Learning Lab, a step by step guide here: 
+Start the DevNet Learning Lab, a step by step guide here: [https://developer.cisco.com/learning/](https://developer.cisco.com/learning/)
 
 ## DevNet Sandbox Information
 
