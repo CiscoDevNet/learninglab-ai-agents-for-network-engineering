@@ -1,0 +1,12 @@
+{
+    "devnetsandboxiosxec9k.cisco.com" : {
+            "type" : "cisco catalyst ios xe",
+            "username" : "",
+            "password" : ""
+        },
+    "10.10.20.48" : {
+            "type" : "cisco catalyst ios xe",
+            "username" : "",
+            "password" : ""
+        }
+}
